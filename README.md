@@ -53,7 +53,3 @@ iterative-refinement/
 - Codex CLI：`.codex/skills/`
 
 新会话中即可通过自然语言触发，例如："用迭代求精的方式帮我完成 XX，做完再自己检查几遍"。
-
-## 许可证
-
-MIT
